@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Contact by Phone"
+        android:id="@+id/nav_item_contact_by_phone"
+        android:icon="@drawable/ic_contact"/>
+
+    <item android:title="Contact by Kakao"
+        android:id="@+id/nav_item_contact_by_kakao"
+        android:icon="@drawable/ic_kakaotalk"/>
+
+    <item android:title="1:1 Contact"
+        android:id="@+id/nav_item_contact_peer_to_peer"
+        android:icon="@drawable/ic_contact11"/>
+
+    <item android:title="Help"
+        android:id="@+id/nav_item_help"
+        android:icon="@drawable/ic_help"/>
+
+    <item android:title="AApply for Dealer"
+        android:id="@+id/nav_item_apply_for_dealer"
+        android:icon="@drawable/ic_applydealer"/>
+
+    <item android:title="Invite Friend"
+        android:id="@+id/nav_item_invite_friend"
+        android:icon="@drawable/ic_add_user"/>
+</menu>

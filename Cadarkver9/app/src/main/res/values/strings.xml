@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadark ver 9</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_network_text_notification">Notification</string>
+    <string name="no_network_text_content">The network is unstable\nPlease retry after confirmation</string>
+    <string name="no_network_text_select_ok">OK</string>
+</resources>
